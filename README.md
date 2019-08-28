@@ -1,4 +1,5 @@
 # Prism.js
+<img src="Prism.js.png" alt="Logotipo do Prism.js">
 <img src="screenshot.png" alt="Screenshot do Prism.js em execução com o DNS do Google">
 Prism.js é um programa de rastreamento básico feito em JavaScript, que a partir de um certo IP, mostra informações aproximadas, tais como país, cidade, estado, geo-localização aproximada...
 
