@@ -1,0 +1,14 @@
+{
+  "name": "prism",
+  "version": "1.0.0",
+  "description": "Simple program that shows IP information, such as geo-location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Faura <guilhermeisnotunix@gmail.com> (https://guilhermeisnotunix.github.io/)",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "ipinfo": "^1.3.9"
+  }
+}
