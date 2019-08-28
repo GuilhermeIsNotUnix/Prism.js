@@ -5,3 +5,6 @@ Prism.js é um programa de rastreamento básico, que a partir de um certo IP, mo
 
 <h2>Uso</h2>
 node index.js <ip>
+  
+<h2>Responsabilidade</h2>
+Não me responsabilizo pelo uso indevido deste código. Prism.js foi criado para fins acadêmicos, principalmente para entender conceitos de Redes de Computadores e APIs.
